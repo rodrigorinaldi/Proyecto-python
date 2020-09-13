@@ -40,7 +40,7 @@ def ej1():
         print("solo ejercitar 30 min con cardio y agregar 1 barra proteica mas 1 fruta en horas de descanso")
     
     else:
-        print("ver el caso mas a fondo")    
+        print("ver el caso mas+ a fondo")    
 
 
 
